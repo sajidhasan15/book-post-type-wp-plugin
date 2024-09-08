@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Book Post Type
  * Description: A custom post type for Books with custom fields for Author, Description, Shopping Link, and Published Date.
- * Version: 1.0
+ * Version: 1.1
  * Author: Sajid Hasan
  */
 
